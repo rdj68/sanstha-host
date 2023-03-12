@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sanstha-host/static/css/main.590de851.css",
+    "main.js": "/sanstha-host/static/js/main.b17d8fd0.js",
+    "static/js/787.83fdf458.chunk.js": "/sanstha-host/static/js/787.83fdf458.chunk.js",
+    "static/media/slider2.jpg": "/sanstha-host/static/media/slider2.b3db05986a016fc2423d.jpg",
+    "static/media/slider1.jpg": "/sanstha-host/static/media/slider1.1cc261630149c7d1ffe9.jpg",
+    "static/media/slider4.JPG": "/sanstha-host/static/media/slider4.a26229d19b9a9c8b0c71.JPG",
+    "static/media/slider3.jpg": "/sanstha-host/static/media/slider3.7bdd1a8b4361fba37b19.jpg",
+    "static/media/hostel.jpg": "/sanstha-host/static/media/hostel.0153d7fbd91f9a068a1b.jpg",
+    "static/media/count_bg.jpg": "/sanstha-host/static/media/count_bg.d8dd377030d06dbe5740.jpg",
+    "index.html": "/sanstha-host/index.html",
+    "main.590de851.css.map": "/sanstha-host/static/css/main.590de851.css.map",
+    "main.b17d8fd0.js.map": "/sanstha-host/static/js/main.b17d8fd0.js.map",
+    "787.83fdf458.chunk.js.map": "/sanstha-host/static/js/787.83fdf458.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.590de851.css",
+    "static/js/main.b17d8fd0.js"
+  ]
+}
